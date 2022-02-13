@@ -12,7 +12,7 @@ AnimeOnsen is a video streaming platform for anime shows and movies.
     -   [Stats](https://animeonsen.xyz/statistics)
 -   Integrations
     -   [:heavy_check_mark: PreMiD Presence](https://premid.app/store/presences/AnimeOnsen)
-    -   [:yellow_circle: MALSync](https://malsync.moe/)[^4]
+    -   [:heavy_check_mark: MALSync](https://malsync.moe/)[^4]
 
 ### :satellite: Connect With Us
 

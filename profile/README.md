@@ -12,7 +12,7 @@ AnimeOnsen is a video streaming platform for anime shows and movies.
     -   [Stats](https://animeonsen.xyz/statistics)
 -   Integrations
     -   [:heavy_check_mark: PreMiD Presence](https://premid.app/store/presences/AnimeOnsen)
-    -   [:heavy_check_mark: MALSync](https://malsync.moe/)[^4]
+    -   [:heavy_check_mark: MALSync](https://malsync.moe/)
 
 ### :satellite: Connect With Us
 
@@ -39,4 +39,3 @@ _If you have any suggestions or problems with the site, contact us via our [Disc
 [^1]: All of the repositories containing the site's source code are currently private.
 [^2]: Supported list of languages depend on the languages that were originally released by the Licensor(s) of the content. Requesting the addition of unsupported languages is also appreciated.
 [^3]: Index page is not working as of last commit of this document.
-[^4]: MALSync integration is not available publicly, but can be used if the extension is built manually.

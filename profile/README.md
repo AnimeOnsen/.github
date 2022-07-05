@@ -28,9 +28,15 @@ AnimeOnsen is a video streaming platform for anime shows and movies.
 -   :heavy_check_mark: Bookmark episodes
 -   :x: Free pizza :pizza:
 
-### :pushpin: Issues & Pull Requests
+### :pushpin: Issues & Pull Requests[^1]
 
-As of the writing of this document, there are no public repositories available.[^1]
+Create issues/pull requests with the following title template:
+
+```md
+[<type>] <subject>
+```
+
+-   Make sure that the description contains relevant information to the issue/pull request.
 
 _If you have any suggestions or problems with the site, contact us via our [Discord server](https://discord.gg/U56ZMrD)!_
 
